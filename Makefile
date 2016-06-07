@@ -1,6 +1,6 @@
 deps:
 	go get github.com/codegangsta/cli
-	go get howett.net/plist
+	go get github.com/DHowett/go-plist
 
 install: deps
 	go install

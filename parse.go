@@ -6,7 +6,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"howett.net/plist"
+	"github.com/DHowett/go-plist"
 )
 
 // TODO: 他のkeyもサポートする
